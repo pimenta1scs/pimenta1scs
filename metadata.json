@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Pimenta da Terra - Controle de Horas",
+  "description": "A web application for employees of Pimenta da Terra SCS to clock in and out, and view their worked hours dashboard. This app interacts with a Google Sheet via a Google Apps Script backend.",
+  "requestFramePermissions": []
+}
